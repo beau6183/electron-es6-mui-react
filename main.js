@@ -1,5 +1,6 @@
-import app from 'app';
-import BrowserWindow from 'browser-window';
+import electron from 'electron';
+const app = electron.app;
+const BrowserWindow = electron.BrowserWindow;
 
 let mainWindow = null;
 
