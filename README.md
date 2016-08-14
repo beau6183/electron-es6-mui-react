@@ -18,7 +18,7 @@ The renderer entry point `index.html` does basically the same, but loads the
 ## Start a new project using this
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh)
+bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh) <project name>
 ```
 
 ## Installation
