@@ -18,10 +18,7 @@ The renderer entry point `index.html` does basically the same, but loads the
 ## Start a new project using this
 
 ```bash
-git clone https://github.com/beau6183/electron-es6-mui-react.git my-awesome-project
-rm -rf .git
-git init
-git commit -am"Initial commit"
+bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh)
 ```
 
 ## Installation
