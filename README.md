@@ -15,18 +15,19 @@ Babel's features.
 The renderer entry point `index.html` does basically the same, but loads the
 `scripts/main.js` file, which renders the `app/main.jsx` component into the `body`.
 
-## Start a new project using this
-
-```bash
-bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh) <project name>
-```
-
 ## Installation
 
 ```bash
 git clone https://github.com/beau6183/electron-es6-mui-react.git
 cd electron-es6-mui-react
 npm install
+npm start
+```
+## Start a new project using this
+Replace `&lt;project name&gt;` with your project's name 
+```bash
+bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh) <project name>
+cd <project name>
 npm start
 ```
 
