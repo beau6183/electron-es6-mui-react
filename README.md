@@ -30,6 +30,7 @@ bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react
 cd <project name>
 npm start
 ```
+After this, you'll want to update `package.json` to reflect your project's name, description and version.
 
 [ES6]: http://exploringjs.com/
 [React]: https://facebook.github.io/react/
