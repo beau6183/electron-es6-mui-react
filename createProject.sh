@@ -8,3 +8,4 @@ cd "$1"
 rm -rf .git
 git init
 git commit -am"Initial commit"
+npm i
