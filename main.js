@@ -1,4 +1,6 @@
 import electron from 'electron';
+import electronConnect from 'electron-connect';
+const client = electronConnect.client;
 const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
 
@@ -16,4 +18,5 @@ app.on('ready', () => {
   mainWindow.on('closed', () => {
     mainWindow = null;
   });
+  client.create(mainWindow);
 });
