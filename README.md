@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 ## Start a new project using this
-Replace `&lt;project name&gt;` with your project's name 
+Replace `<project name>` with your project's name 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/beau6183/electron-es6-mui-react/master/createProject.sh) <project name>
 cd <project name>
