@@ -28,3 +28,5 @@ npm start
 [React]: https://facebook.github.io/react/
 [Electron]: http://electron.atom.io/
 [Babel]: http://babeljs.io
+[Electron-Connect]: https://github.com/Quramy/electron-connect
+[Material-UI]: http://www.material-ui.com/
