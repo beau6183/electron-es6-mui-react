@@ -1,9 +1,9 @@
 {
-  "name": "electron-es6-react",
+  "name": "electron-es6-mui-react",
   "version": "0.1.0",
   "main": "bootstrapper.js",
   "license": "MIT",
-  "repository": "b52/electron-es6-react",
+  "repository": "beau6183/electron-es6-mui-react",
   "scripts": {
     "start": "gulp serve"
   },
